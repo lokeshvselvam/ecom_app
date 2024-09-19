@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/walmartApplication/static/css/main.a18dbbb8.css",
+    "main.js": "/walmartApplication/static/js/main.aaf5cf5c.js",
+    "static/js/453.a51e2bbd.chunk.js": "/walmartApplication/static/js/453.a51e2bbd.chunk.js",
+    "static/media/purepng.com-walmart-logologobrand.png": "/walmartApplication/static/media/purepng.com-walmart-logologobrand.9d0550d39da492da2a02.png",
+    "static/media/apple.jpg": "/walmartApplication/static/media/apple.ed37e3996ce04863986b.jpg",
+    "static/media/H&M-Logo.svg.png": "/walmartApplication/static/media/H&M-Logo.svg.b39716048e997ea91d2f.png",
+    "static/media/pngtree-empty-shopping-cart-store-icon-png-image_5624129.png": "/walmartApplication/static/media/pngtree-empty-shopping-cart-store-icon-png-image_5624129.1546e5999ec899a24b20.png",
+    "static/media/playstore.webp": "/walmartApplication/static/media/playstore.b9bdedb4f903bf76dcb0.webp",
+    "static/media/W__Blue_RGB.avif": "/walmartApplication/static/media/W__Blue_RGB.2e57635ae7ff4d6b38e6.avif",
+    "index.html": "/walmartApplication/index.html",
+    "main.a18dbbb8.css.map": "/walmartApplication/static/css/main.a18dbbb8.css.map",
+    "main.aaf5cf5c.js.map": "/walmartApplication/static/js/main.aaf5cf5c.js.map",
+    "453.a51e2bbd.chunk.js.map": "/walmartApplication/static/js/453.a51e2bbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a18dbbb8.css",
+    "static/js/main.aaf5cf5c.js"
+  ]
+}
