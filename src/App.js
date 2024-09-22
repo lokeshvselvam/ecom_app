@@ -11,9 +11,7 @@ function App() {
       <Provider store={store}>
       <BrowserRouter>
         <Routes>
-          <Route path='/' element={<Home />}>
-            <Route element={<Home />} />
-          </Route>
+          <Route path='/' element={<Home />} />
           <Route path='/:cate_name/:goods_id' element={<ProductDetails />} />
           <Route path='checkout' element={<Checkout />} />
         </Routes>
