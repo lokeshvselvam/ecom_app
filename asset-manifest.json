@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/walmartApplication/static/css/main.a18dbbb8.css",
-    "main.js": "/walmartApplication/static/js/main.aaf5cf5c.js",
+    "main.js": "/walmartApplication/static/js/main.f7aee074.js",
     "static/js/453.a51e2bbd.chunk.js": "/walmartApplication/static/js/453.a51e2bbd.chunk.js",
     "static/media/purepng.com-walmart-logologobrand.png": "/walmartApplication/static/media/purepng.com-walmart-logologobrand.9d0550d39da492da2a02.png",
     "static/media/apple.jpg": "/walmartApplication/static/media/apple.ed37e3996ce04863986b.jpg",
@@ -11,11 +11,11 @@
     "static/media/W__Blue_RGB.avif": "/walmartApplication/static/media/W__Blue_RGB.2e57635ae7ff4d6b38e6.avif",
     "index.html": "/walmartApplication/index.html",
     "main.a18dbbb8.css.map": "/walmartApplication/static/css/main.a18dbbb8.css.map",
-    "main.aaf5cf5c.js.map": "/walmartApplication/static/js/main.aaf5cf5c.js.map",
+    "main.f7aee074.js.map": "/walmartApplication/static/js/main.f7aee074.js.map",
     "453.a51e2bbd.chunk.js.map": "/walmartApplication/static/js/453.a51e2bbd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a18dbbb8.css",
-    "static/js/main.aaf5cf5c.js"
+    "static/js/main.f7aee074.js"
   ]
 }
